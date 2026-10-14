@@ -29,7 +29,7 @@ API REST para gestionar una empresa de **alquiler de vehículos**: oficinas, flo
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/FER202360573/API_3_Alquilar_Vehiculos.git
+git clone https://github.com/FER202360573/Alquilar_Vehiculos.git
 cd Alquilar_Vehiculos
 
 # 2. Configurar las credenciales de MySQL (ver la sección siguiente)
